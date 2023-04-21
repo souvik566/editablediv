@@ -1,0 +1,9 @@
+.editbox{
+    width: 200px;
+    height :200px;
+    background-color: brown;
+    display: block;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
